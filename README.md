@@ -571,4 +571,4 @@ After 10 minutes cluster will delete and wait for it. Don’t remove ec2 instanc
 
 **Delete the Ec2 instance.**
 
-### If you like this article, please share with others. ❤️
+
