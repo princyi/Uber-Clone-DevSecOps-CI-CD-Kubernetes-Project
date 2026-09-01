@@ -6,7 +6,6 @@
 
 In the fast-paced world of app development, the need for a seamless and secure Continuous Integration/Continuous Deployment (CI/CD) pipeline cannot be overstated. For businesses looking to replicate the success of Uber, it’s crucial to implement a DevSecOps approach that ensures both speed and security throughout the software development lifecycle. In this blog post, we’ll explore the key components of a DevSecOps CI/CD pipeline for an Uber clone, emphasizing the importance of integrating security into every stage of the development process.
 
-**Github Repo** :- [uber-clone](https://github.com/SushantOps/uber-clone.git)
 
 ## **STEP 1: Launch an Ubuntu instance (T2.large) :-**
 
