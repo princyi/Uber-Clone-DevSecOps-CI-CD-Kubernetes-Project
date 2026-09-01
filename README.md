@@ -1,4 +1,4 @@
-# Uber Clone DevSecOps CI/CD Kubernetes Project
+# Uber Clone DevSecOps CI/CD Kubernetes Project with AWS
 
 ![](https://miro.medium.com/v2/resize:fit:736/0*xJc4sgDsMZqdfPyZ.png)
 
